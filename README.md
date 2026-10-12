@@ -27,7 +27,7 @@ XrayR已于7.28回归
 | 32 位系统拦截失效 | 判断条件写反 |
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/xhcyy1990/XrayR/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/xhcyy1990/Xry/main/install.sh)
 ```
 
 也可以先克隆本仓库再安装（脚本会优先使用仓库内的本地副本）：
